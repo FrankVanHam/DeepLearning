@@ -1,3 +1,6 @@
 /Summary/__pycache__
 /homecooked-deepnet/__pycache__
 /Emoji/__pycache__
+/WordEmbedding/__pycache__
+Emoji/data/glove.6B.50d.txt
+WordEmbedding/data/glove.6B.50d.txt
